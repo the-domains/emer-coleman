@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Emer Coleman]]></title>
+        <description><![CDATA[Emer Coleman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 11:38:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am an experienced digital leader with a background in 
+the public and private sector. I am an expert in the field of open data 
+and am Chair of the Open Data Governance Board Ireland advising the 
+Irish Government on their open data initiative. I work as an independent
+ digital consultant, associate with EY/UK and as a Non Executive Directors of TransportAPI, Future Everything and SH:24. Mostly I am about change. </p>]]></description>
+            <link>undefined491261ec-b04c-47d4-b722-1a1f1c3de811/index.html</link>
+            <guid isPermaLink="false">491261ec-b04c-47d4-b722-1a1f1c3de811</guid>
+            <pubDate>Mon, 07 Mar 2016 11:38:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
