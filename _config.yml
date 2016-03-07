@@ -1,0 +1,28 @@
+name: Emer Coleman
+favicon: null
+layout_spectrum: 0.9935274275485426
+typography_spectrum: 0.6762600191868842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4713383289054036
+  lightness: 0.7785412350203842
+  saturation: 0.28202090272679925
+  rhythmicContrast: 0.4395247248467058
+purpose: []
